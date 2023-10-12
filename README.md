@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Desafio_DIO_IMCapp
-=======
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
->>>>>>> 39192e6 (Commit inicial)
+
+### Calculadora de IMC (Índice de Massa Corporal)
+
+Este é um aplicativo de console simples que permite calcular o Índice de Massa Corporal (IMC) com base no peso e na altura fornecidos pelo usuário. O IMC é uma medida amplamente utilizada para avaliar se uma pessoa está com um peso saudável com base em sua altura. Esta aplicação é útil para quem deseja monitorar seu peso e saúde.
